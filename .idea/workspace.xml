@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java.FastStart-Catch_the_drop:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -115,21 +120,21 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="929" y="386" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593696819875" />
-    <state width="791" height="179" key="GridCell.Tab.0.bottom" timestamp="1593696592812">
+    <state width="1181" height="200" key="GridCell.Tab.0.bottom" timestamp="1593697363554">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="791" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593696592812" />
-    <state width="791" height="179" key="GridCell.Tab.0.center" timestamp="1593696592811">
+    <state width="1181" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593697363554" />
+    <state width="1181" height="200" key="GridCell.Tab.0.center" timestamp="1593697363553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="791" height="179" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593696592811" />
-    <state width="791" height="179" key="GridCell.Tab.0.left" timestamp="1593696592811">
+    <state width="1181" height="200" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593697363553" />
+    <state width="1181" height="200" key="GridCell.Tab.0.left" timestamp="1593697363553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="791" height="179" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593696592811" />
-    <state width="791" height="179" key="GridCell.Tab.0.right" timestamp="1593696592812">
+    <state width="1181" height="200" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593697363553" />
+    <state width="1181" height="200" key="GridCell.Tab.0.right" timestamp="1593697363554">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="791" height="179" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593696592812" />
+    <state width="1181" height="200" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593697363554" />
   </component>
 </project>
